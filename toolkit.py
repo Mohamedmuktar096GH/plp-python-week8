@@ -134,8 +134,8 @@ while True:
     # ---------------------------------------------------------
     # OPTION 4: QUIT PROGRAM
     # ---------------------------------------------------------
-    elif choice == "4":
-        print("\nThanks for using the Personal Mini-Toolkit. Goodbye and have a great day!")
+        elif choice == "4":
+        print("\nThanks for using the Personal Mini-Toolkit. Goodbye!")
         break
 
     # ---------------------------------------------------------
@@ -143,3 +143,4 @@ while True:
     # ---------------------------------------------------------
     else:
         print(f"\nOops! '{choice}' is not on the menu. Please enter 1, 2, 3, or 4.")
+
