@@ -1,0 +1,25 @@
+========================================
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+========================================
+
+1. SELECTED TOOLS & DESCRIPTIONS
+- Tool 1: To-Do List Manager — Allows the user to add, view, and remove tasks from a personal list during their session.
+- Tool 2: Number Guessing Game — Challenges the user to guess a randomly generated number between 1 and 20 with high/low hints.
+- Tool 3: Simple Calculator — Performs basic addition, subtraction, multiplication, or division on two numbers entered by the user.
+
+2. EXACT MENU TEXT
+========================================
+        PERSONAL MINI-TOOLKIT
+========================================
+1. To-Do List Manager
+2. Number Guessing Game
+3. Simple Calculator
+4. Quit
+----------------------------------------
+Choose an option (1-4): 
+
+3. CONCEPTS USED PER TOOL
+- Main Menu Loop: while loop, if/elif/else conditionals, f-strings, variables.
+- Tool 1 (To-Do List Manager): list (appending and removing items), while loop, if/elif/else conditionals, for loop (to display tasks), f-strings.
+- Tool 2 (Number Guessing Game): while loop, if/elif/else conditionals, random module, variables (guess counter), f-strings.
+- Tool 3 (Simple Calculator): if/elif/else conditionals, variables, float conversion, f-strings.
